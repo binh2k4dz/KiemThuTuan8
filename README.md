@@ -1,4 +1,4 @@
-# Báo Cáo Kiểm Thử API
+# Báo Cáo Kiểm Thử API Bằng Postman
 Ngày kiểm thử: 19/06/2025
 Người kiểm thử: Vũ Duy Bình
 1. Mục Tiêu Kiểm Thử: Sử dụng Postman để kiểm thử một API thực tế
